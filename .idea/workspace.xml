@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -77,6 +80,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -199,7 +203,7 @@
       <workItem from="1755322032214" duration="3805000" />
       <workItem from="1755416899938" duration="8476000" />
       <workItem from="1755491571923" duration="14028000" />
-      <workItem from="1755578844068" duration="1508000" />
+      <workItem from="1755578844068" duration="1822000" />
     </task>
     <servers />
   </component>
