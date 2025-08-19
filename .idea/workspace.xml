@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd93e244-8366-46b1-9214-e2202778d546" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="30criPxSJRrBjYgpF9Ano6s5ZRx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ATMSimulation.executor": "Run",
+    "Application.ArethematicPrecision.executor": "Run",
+    "Application.AverageOfThreeNumbers.executor": "Run",
+    "Application.BillWithGST.executor": "Run",
+    "Application.BooleanLogicChallenge.executor": "Run",
+    "Application.CarExample.executor": "Run",
+    "Application.DeclaringName2.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.FactorialProgram.executor": "Run",
+    "Application.GradeEvaluator.executor": "Run",
+    "Application.InheritanceExample.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MenuDrivenCalculator.executor": "Run",
+    "Application.MultiplesOfThree.executor": "Run",
+    "Application.Name.executor": "Run",
+    "Application.NumberPrinter.executor": "Run",
+    "Application.PassFailChecker.executor": "Run",
+    "Application.PolymorphismExample.executor": "Run",
+    "Application.PositiveNegativeCheck.executor": "Run",
+    "Application.SimpleATM.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution2.executor": "Run",
+    "Application.StudentDemo.executor": "Run",
+    "Application.StudentDetails.executor": "Run",
+    "Application.StudentExample.executor": "Run",
+    "Application.StudentProfile.executor": "Run",
+    "Application.SumEvenOdd.executor": "Run",
+    "Application.TEST3.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.ValueofXY.executor": "Run",
+    "Application.assignment1.executor": "Run",
+    "Application.compoundmodulo.executor": "Run",
+    "Application.factioralofanynum.executor": "Run",
+    "Application.javafundamentals.TypeCasting.executor": "Run",
+    "Application.operators.executor": "Run",
+    "Application.relationalandlogicalope.executor": "Run",
+    "Application.sol.executor": "Run",
+    "Application.solution.executor": "Run",
+    "Application.solution2.executor": "Run",
+    "Application.solutions.executor": "Run",
+    "Application.studentdetails.executor": "Run",
+    "Application.typecasting1.executor": "Run",
+    "Application.valueofxy.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/project/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ASS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InheritanceExample">
+    <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASS.InheritanceExample" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASS.PolymorphismExample" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveNegativeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASS.PositiveNegativeCheck" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASS.SumEvenOdd" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="studentdetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASS.studentdetails" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InheritanceExample" />
+        <item itemvalue="Application.PolymorphismExample" />
+        <item itemvalue="Application.PositiveNegativeCheck" />
+        <item itemvalue="Application.studentdetails" />
+        <item itemvalue="Application.SumEvenOdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd93e244-8366-46b1-9214-e2202778d546" name="Changes" comment="" />
+      <created>1753937831355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753937831355</updated>
+      <workItem from="1753937833000" duration="12267000" />
+      <workItem from="1754022649367" duration="10475000" />
+      <workItem from="1754109917535" duration="6621000" />
+      <workItem from="1754120410713" duration="1456000" />
+      <workItem from="1754284339890" duration="132000" />
+      <workItem from="1754287056255" duration="1402000" />
+      <workItem from="1754369821900" duration="1226000" />
+      <workItem from="1754456384509" duration="331000" />
+      <workItem from="1754456735178" duration="605000" />
+      <workItem from="1754550477510" duration="1214000" />
+      <workItem from="1754551796781" duration="1336000" />
+      <workItem from="1755148787545" duration="1964000" />
+      <workItem from="1755321663099" duration="103000" />
+      <workItem from="1755322032214" duration="3805000" />
+      <workItem from="1755416899938" duration="8476000" />
+      <workItem from="1755491571923" duration="14028000" />
+      <workItem from="1755578844068" duration="1508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ASS/PositiveNegativeCheck.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ASS/Test1.java</url>
+          <line>2</line>
+          <properties class="ASS.Test1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
